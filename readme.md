@@ -1,0 +1,1 @@
+Rag system using AWS services such as AWS Bedrock, S3
